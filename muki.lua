@@ -1,3 +1,5 @@
+#!/usr/bin/env luajit
+
 local function rerr(str, ...)
     print(string.format(str, ...))
     os.exit(-1)
