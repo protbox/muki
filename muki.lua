@@ -1625,7 +1625,7 @@ end
 -- with return { transpile = transpile }
 -- update: turns out I also need to return output at the end of transpile!
 if #arg < 1 then
-    rlog("Usage: rube.lua <source>")
+    rlog("Usage: muki.lua <source>")
     os.exit(0)
 end
 
