@@ -24,7 +24,7 @@ My "unbiased" opinion is that this is a lot more readable and cleaner. This is j
 
 ## Installation
 ```bash
-curl -fsSL https://github.com/protbox/Luby/raw/refs/heads/main/install.sh | sudo sh
+curl -fsSL https://github.com/protbox/muki/raw/refs/heads/main/install.sh | sudo sh
 ```
 
 ## Usage
